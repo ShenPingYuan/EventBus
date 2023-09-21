@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "e4h+k5bqBDlKLoTQxIyFccEbNnBfqP8mMEEzaDkaHSSSK7wfxaXomWEt5e//mfBTvk0EJet17qKY1812ntGI2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HKPF1729\\Downloads\\334\\EventBusExample\\BasketExample\\BasketExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.2\\microsoft.extensions.configuration.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.2\\microsoft.extensions.configuration.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.2\\microsoft.extensions.configuration.binder.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.2\\microsoft.extensions.configuration.fileextensions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.2\\microsoft.extensions.configuration.json.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.2\\microsoft.extensions.dependencyinjection.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.2\\microsoft.extensions.dependencyinjection.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.2\\microsoft.extensions.fileproviders.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.2\\microsoft.extensions.fileproviders.physical.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.2\\microsoft.extensions.filesystemglobbing.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.logging\\3.1.2\\microsoft.extensions.logging.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.2\\microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.2\\microsoft.extensions.logging.configuration.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.2\\microsoft.extensions.logging.console.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.options\\3.1.2\\microsoft.extensions.options.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.2\\microsoft.extensions.options.configurationextensions.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
+    "C:\\Users\\HKPF1729\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://192.168.1.53:8085/nuget”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}
